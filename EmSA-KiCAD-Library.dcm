@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CANGINEBERRY-V1-MAKER
+D Maker version of CANgineBerry V1 with all pins exposed
+$ENDCMP
+#
+$CMP COIA-CORE-Header-Pins
+D COIA-CORE with header pins
+$ENDCMP
+#
+$CMP COIA-M0-Module
+D COIA-M0 Module All Pins
+$ENDCMP
+#
+$CMP COIA-M0-Module-1
+D COIA-M0 Module Connector Side A
+$ENDCMP
+#
+$CMP COIA-M0-Module-2
+D COIA-M0 Module Connector Side B
+$ENDCMP
+#
+#End Doc Library
