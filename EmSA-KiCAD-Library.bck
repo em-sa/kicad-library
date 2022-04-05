@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP CANGINEBERRY-V1-MAKER
-D Maker version of CANgineBerry V1 with all pins exposed
+$CMP CANGINEBERRY-V1.5-MAKER
+D Maker version of CANgineBerry V1.5 with all pins exposed
 $ENDCMP
 #
 $CMP COIA-CORE-Header-Pins
