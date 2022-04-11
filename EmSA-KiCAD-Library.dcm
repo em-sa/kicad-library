@@ -4,6 +4,14 @@ $CMP CANGINEBERRY-V1.5-MAKER
 D Maker version of CANgineBerry V1.5 with all pins exposed
 $ENDCMP
 #
+$CMP COIA-CORE-1
+D COIA-CORE Side A
+$ENDCMP
+#
+$CMP COIA-CORE-2
+D COIA-CORE Side B
+$ENDCMP
+#
 $CMP COIA-CORE-Header-Pins
 D COIA-CORE with header pins
 $ENDCMP
